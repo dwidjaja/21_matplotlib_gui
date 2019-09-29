@@ -1,4 +1,4 @@
-# 30_matplotlib_gui
+# 21_matplotlib_gui
 
 1. This GUI was designed using matplotlib.
 2. Its function to prepare/classify the data for machine learning. Because it's boring to classify the data in excel-program :)
