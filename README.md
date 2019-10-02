@@ -4,4 +4,3 @@
 2. Its function to prepare/classify the data for machine learning. 
 3. It has build-in widgets like the "Next" button or the keyboard's right arrow to show the next 500 rows on the below graph
 
-![alt text](https://i.imgur.com/JLzDtYP.png)
